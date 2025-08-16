@@ -49,16 +49,23 @@ If you want to build your own .exe file:
    pip install pyinstaller
    pyinstaller --onefile --windowed textEditor.py
    ```
+
 The executable will be inside the dist/ folder.
 
+---
+
 📥 Download EXE
+
 [![Download EXE](https://img.shields.io/badge/Download-EXE-blue?style=for-the-badge)](https://github.com/iaamhammad/Notepad-Clone/releases)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/iaamhammad/Notepad-Clone?style=for-the-badge)](https://github.com/iaamhammad/Notepad-Clone/releases)
 
-
 You can download the pre-built .exe from the Releases section.
 
+---
+
 ![App Screenshot](screenshot.png)
+
+---
 
 👨‍💻 Author
 
