@@ -5,6 +5,14 @@ It allows you to create, open, edit, and save text files in a simple GUI.
 
 ---
 
+## ⚙️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)
+![Tkinter](https://img.shields.io/badge/Tkinter-GUI-orange?style=for-the-badge)
+![PyInstaller](https://img.shields.io/badge/PyInstaller-Build%20EXE-lightgrey?style=for-the-badge&logo=python)
+
+---
+
 ## 🚀 Features
 - Create new text files
 - Open existing `.txt` files
@@ -23,23 +31,24 @@ Text_Editor/
 ---
 
 ## ▶️ How to Run (Source Code)
+
 1. Clone the repo:
    ```bash
    git clone https://github.com/iaamhammad/Notepad-Clone.git
    cd Notepad-Clone
    ```
 2. Run the Python file:
-```python textEditor.py```
+   ```python textEditor.py```
 
 ---
 
 🏗️ How to Build the EXE
 
 If you want to build your own .exe file:
-```bash
-pip install pyinstaller
-pyinstaller --onefile --windowed textEditor.py
-```
+   ```bash
+   pip install pyinstaller
+   pyinstaller --onefile --windowed textEditor.py
+   ```
 The executable will be inside the dist/ folder.
 
 📥 Download EXE
