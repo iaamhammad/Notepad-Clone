@@ -1,0 +1,6 @@
+# Ignore build files
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
