@@ -14,6 +14,7 @@ It allows you to create, open, edit, and save text files in a simple GUI.
 ---
 
 ## 🚀 Features
+
 - Create new text files
 - Open existing `.txt` files
 - Save and Save As functionality
@@ -23,32 +24,33 @@ It allows you to create, open, edit, and save text files in a simple GUI.
 ---
 
 ## 📂 Project Structure
+
 Text_Editor/
-│── textEditor.py # Main source code
-│── .gitignore # Git ignore file
-│── dist/ # Generated exe (not in repo, available in Releases)
+- textEditor.py # Main source code
+- .gitignore # Git ignore file
+- dist/ # Generated exe (not in repo, available in Releases)
 
 ---
 
 ## ▶️ How to Run (Source Code)
 
 1. Clone the repo:
-   ```bash
-   git clone https://github.com/iaamhammad/Notepad-Clone.git
-   cd Notepad-Clone
-   ```
+```bash
+git clone https://github.com/iaamhammad/Notepad-Clone.git
+cd Notepad-Clone
+```
 2. Run the Python file:
-   ```python textEditor.py```
+```python textEditor.py```
 
 ---
 
 🏗️ How to Build the EXE
 
 If you want to build your own .exe file:
-   ```bash
-   pip install pyinstaller
-   pyinstaller --onefile --windowed textEditor.py
-   ```
+```bash
+pip install pyinstaller
+pyinstaller --onefile --windowed textEditor.py
+```
 
 The executable will be inside the dist/ folder.
 
