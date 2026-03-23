@@ -59,5 +59,9 @@ The executable will be inside the `dist/` folder.
 
 Download the pre-built `.exe` from the [Releases](https://github.com/iaamhammad/Notepad-Clone/releases) section.
 
+## 📸 Demo
+
+![Editx Demo](textEditor%20demo.png)
+
 ## 👨‍💻 Author
 **Hammad Muhammad** — [@iaamhammad](https://github.com/iaamhammad)
